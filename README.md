@@ -1,1 +1,1 @@
-# my .bashrc file.
+# My .bashrc configure File.
